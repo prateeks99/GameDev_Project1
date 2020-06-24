@@ -1,4 +1,4 @@
-# KyloRun
+# Kylo:Run
 Open-Source game project made using Unity5 2D Engine
 
 ## Art
